@@ -1,4 +1,5 @@
 -- Anonymous Function
+-- Just testing random Haskell code
 
 
 -- addOneIfOdd without Anonymous Function
